@@ -1,0 +1,3 @@
+crewai
+tavily-python
+python-dotenv
